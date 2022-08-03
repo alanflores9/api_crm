@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "alan flores",
+      "empresa": "florwerd soft",
+      "email": "aldicompra@gmail.com",
+      "telefono": "4585445",
+      "notas": "prueba de resgirtpp",
+      "id": 1
+    },
+    {
+      "nombre": "maria actualizado",
+      "empresa": "developr",
+      "email": "aldicompra@gmail.com",
+      "telefono": "4585445",
+      "notas": "prueba de resgirtpp 555",
+      "id": 3
+    },
+    {
+      "nombre": "diego flores ",
+      "empresa": "flores",
+      "email": "alan@gmail.com",
+      "telefono": "",
+      "notas": "",
+      "id": 5
+    },
+    {
+      "nombre": "juan perez",
+      "empresa": "codigo/ actualizadfo",
+      "email": "alan@gmail.com",
+      "telefono": "34342345",
+      "notas": "prueba de resgistro",
+      "id": 8
+    }
+  ]
+}
